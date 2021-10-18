@@ -6,7 +6,7 @@
 class Rectangle():
     # 
     def __init__(self, len, wid):
-        # Set the length and width as instance parameters
+        # Set the length and width as instance attributes
         self.length = len
         self.width  = wid
 
