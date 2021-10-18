@@ -1,4 +1,4 @@
-# Justin Thomas MIT211573
+# Justin Thomas
 # Week 4 Workshop Question 6
 # Defines a class named rectangle that has a method
 # to compute the area of the rectangle
